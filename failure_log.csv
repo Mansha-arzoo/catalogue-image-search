@@ -1,0 +1,19 @@
+case,query_file,true_category,wrongly_matched_to,similarity_score,reason
+1,IMG_20260813_111034.jpg,01_pens,07_shirts,0.346,dominant patterns
+2,IMG_20260813_111052.jpg,01_pens,20_mobile_covers,0.392,dominant patterns
+3,IMG_20260813_111034.jpg,02_brushes,07_shirts,0.346,dominant patterns
+4,IMG_20260813_111653.jpg,02_brushes,01_pens,0.475,Shape similarity
+5,IMG_20260813_112435.jpg,02_brushes,20_mobile_covers,0.423,dominant patterns
+6,IMG-20260813-WA0047.jpg,04_staplers,12_soap_bars,0.481,Poor image quality/lighting
+7,IMG_20260813_113644.jpg,09_cups_mugs,16_tea_packets,0.503,Inherently similar packaging categories
+8,IMG_20260813_114330.jpg,13_shampoo_bottles,16_tea_packets,0.504,Inherently similar packaging categories
+9,IMG_20260813_114335.jpg,13_shampoo_bottles,10_bottles,0.542,Visually close/overlapping categories
+10,IMG-20260814-WA0039.jpg,14_biscuit_packets,16_tea_packets,0.658,Inherently similar packaging categories
+11,IMG-20260814-WA0048.jpg,14_biscuit_packets,15_chips_packets,0.735,Inherently similar packaging categories
+12,IMG-20260814-WA0053.jpg,14_biscuit_packets,16_tea_packets,0.578,Inherently similar packaging categories
+13,IMG-20260813-WA0044.jpg,15_chips_packets,14_biscuit_packets,0.634,Inherently similar packaging categories
+14,IMG-20260814-WA0015.jpg,16_tea_packets,14_biscuit_packets,0.438,Inherently similar packaging categories
+15,IMG-20260813-WA0013.jpg,21_perfumes,16_tea_packets,0.431,Inherently similar packaging categories
+16,IMG-20260813-WA0017.jpg,21_perfumes,16_tea_packets,0.464,Inherently similar packaging categories
+17,IMG-20260813-WA0018.jpg,21_perfumes,16_tea_packets,0.458,Color + box-shape similarity
+18,IMG-20260813-WA0019.jpg,21_perfumes,20_mobile_covers,0.461,Inherently similar packaging categories

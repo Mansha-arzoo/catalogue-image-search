@@ -1,0 +1,190 @@
+QUERY PHOTOS QUALITY REPORT
+========================================
+
+=== 01_pens (8 images) ===
+  BLURRY (score=49.3, lower=more blurry): IMG_20260813_110720.jpg
+  BLURRY (score=22.6, lower=more blurry): IMG_20260813_110753.jpg
+  BLURRY (score=18.2, lower=more blurry): IMG_20260813_110857.jpg
+  BLURRY (score=16.7, lower=more blurry): IMG_20260813_110910.jpg
+  BLURRY (score=62.2, lower=more blurry): IMG_20260813_110917.jpg
+  BLURRY (score=32.5, lower=more blurry): IMG_20260813_111034.jpg
+  BLURRY (score=32.9, lower=more blurry): IMG_20260813_111052.jpg
+
+=== 02_brushes (10 images) ===
+  BLURRY (score=32.5, lower=more blurry): IMG_20260813_111034.jpg
+  BLURRY (score=32.9, lower=more blurry): IMG_20260813_111052.jpg
+  BLURRY (score=4.5, lower=more blurry): IMG_20260813_111653.jpg
+  BLURRY (score=6.0, lower=more blurry): IMG_20260813_111705.jpg
+  BLURRY (score=6.5, lower=more blurry): IMG_20260813_111711.jpg
+  BLURRY (score=5.0, lower=more blurry): IMG_20260813_111722.jpg
+  BLURRY (score=63.4, lower=more blurry): IMG_20260813_112442.jpg
+  BLURRY (score=39.2, lower=more blurry): IMG_20260813_112512.jpg
+
+=== 03_scissors (8 images) ===
+  BLURRY (score=50.6, lower=more blurry): IMG-20260813-WA0072.jpg
+
+=== 04_staplers (8 images) ===
+  BLURRY (score=32.1, lower=more blurry): IMG-20260813-WA0045.jpg
+  BLURRY (score=70.5, lower=more blurry): IMG-20260813-WA0046.jpg
+  BLURRY (score=11.0, lower=more blurry): IMG-20260813-WA0047.jpg
+  BLURRY (score=45.6, lower=more blurry): IMG_20260814_173611.jpg
+
+=== 05_flowers (9 images) ===
+
+=== 06_leaves (9 images) ===
+
+=== 07_shirts (8 images) ===
+  BLURRY (score=21.4, lower=more blurry): IMG_20260813_112823.jpg
+  BLURRY (score=38.5, lower=more blurry): IMG_20260813_112837.jpg
+  BLURRY (score=84.4, lower=more blurry): IMG_20260813_112931.jpg
+  BLURRY (score=45.5, lower=more blurry): IMG_20260813_112953.jpg
+  BLURRY (score=41.4, lower=more blurry): IMG_20260813_113003.jpg
+  BLURRY (score=20.8, lower=more blurry): IMG_20260813_113034.jpg
+  BLURRY (score=10.6, lower=more blurry): IMG_20260813_113105.jpg
+
+=== 08_kitchen_spoons (8 images) ===
+  BLURRY (score=8.0, lower=more blurry): IMG_20260813_113243.jpg
+  BLURRY (score=16.4, lower=more blurry): IMG_20260813_113249.jpg
+  BLURRY (score=23.1, lower=more blurry): IMG_20260813_113254.jpg
+  BLURRY (score=31.8, lower=more blurry): IMG_20260813_113258.jpg
+  BLURRY (score=45.1, lower=more blurry): IMG_20260813_113305.jpg
+  BLURRY (score=28.2, lower=more blurry): IMG_20260813_113315.jpg
+  BLURRY (score=39.3, lower=more blurry): IMG_20260813_113330.jpg
+  BLURRY (score=16.2, lower=more blurry): IMG_20260813_113335.jpg
+
+=== 09_cups_mugs (7 images) ===
+  BLURRY (score=9.0, lower=more blurry): IMG_20260813_113445.jpg
+  BLURRY (score=28.0, lower=more blurry): IMG_20260813_113457.jpg
+  BLURRY (score=5.2, lower=more blurry): IMG_20260813_113502.jpg
+  BLURRY (score=51.5, lower=more blurry): IMG_20260813_113644.jpg
+  BLURRY (score=14.4, lower=more blurry): IMG_20260813_113706.jpg
+  BLURRY (score=12.7, lower=more blurry): IMG_20260813_113710.jpg
+  BLURRY (score=17.3, lower=more blurry): IMG_20260813_113713.jpg
+
+=== 10_bottles (8 images) ===
+  BLURRY (score=20.4, lower=more blurry): IMG_20260814_172423.jpg
+  BLURRY (score=15.4, lower=more blurry): IMG_20260814_172436.jpg
+  BLURRY (score=25.9, lower=more blurry): IMG_20260814_172454.jpg
+  BLURRY (score=33.2, lower=more blurry): IMG_20260814_172700.jpg
+  BLURRY (score=23.3, lower=more blurry): IMG_20260814_172739.jpg
+
+=== 11_screwdrivers (8 images) ===
+  BLURRY (score=40.6, lower=more blurry): IMG-20260813-WA0029.jpg
+  BLURRY (score=35.5, lower=more blurry): IMG-20260813-WA0030.jpg
+  BLURRY (score=90.4, lower=more blurry): IMG-20260813-WA0031.jpg
+  BLURRY (score=50.8, lower=more blurry): IMG-20260813-WA0032.jpg
+  BLURRY (score=59.3, lower=more blurry): IMG-20260813-WA0033.jpg
+  BLURRY (score=74.5, lower=more blurry): IMG-20260813-WA0035.jpg
+  BLURRY (score=18.0, lower=more blurry): IMG-20260813-WA0036.jpg
+
+=== 12_soap_bars (8 images) ===
+  BLURRY (score=24.3, lower=more blurry): IMG_20260813_114419.jpg
+  BLURRY (score=35.8, lower=more blurry): IMG_20260813_114426.jpg
+  BLURRY (score=22.4, lower=more blurry): IMG_20260813_114440.jpg
+  BLURRY (score=18.8, lower=more blurry): IMG_20260813_114446.jpg
+  BLURRY (score=15.2, lower=more blurry): IMG_20260813_114536.jpg
+  BLURRY (score=7.9, lower=more blurry): IMG_20260813_114549.jpg
+  BLURRY (score=71.3, lower=more blurry): IMG_20260814_174953.jpg
+
+=== 13_shampoo_bottles (8 images) ===
+  BLURRY (score=29.0, lower=more blurry): IMG_20260813_113855.jpg
+  BLURRY (score=32.8, lower=more blurry): IMG_20260813_113904.jpg
+  BLURRY (score=19.4, lower=more blurry): IMG_20260813_113909.jpg
+  BLURRY (score=48.5, lower=more blurry): IMG_20260813_114147.jpg
+  BLURRY (score=29.0, lower=more blurry): IMG_20260813_114330.jpg
+  BLURRY (score=15.8, lower=more blurry): IMG_20260813_114335.jpg
+  BLURRY (score=43.9, lower=more blurry): IMG_20260813_114347.jpg
+
+=== 14_biscuit_packets (8 images) ===
+  BLURRY (score=74.3, lower=more blurry): IMG-20260814-WA0047.jpg
+  BLURRY (score=80.9, lower=more blurry): IMG-20260814-WA0049.jpg
+  BLURRY (score=82.7, lower=more blurry): IMG-20260814-WA0052.jpg
+
+=== 15_chips_packets (8 images) ===
+  BLURRY (score=91.8, lower=more blurry): IMG-20260813-WA0039.jpg
+  BLURRY (score=61.9, lower=more blurry): IMG-20260813-WA0041.jpg
+
+=== 16_tea_packets (5 images) ===
+  WARNING: Only 5 images - aim for at least 6-8.
+  BLURRY (score=82.8, lower=more blurry): IMG-20260814-WA0016.jpg
+  BLURRY (score=76.3, lower=more blurry): IMG-20260814-WA0017.jpg
+  BLURRY (score=4.8, lower=more blurry): IMG-20260814-WA0018.jpg
+
+=== 17_cars (8 images) ===
+  BLURRY (score=65.6, lower=more blurry): IMG-20260813-WA0076.jpg
+
+=== 18_rings (8 images) ===
+  BLURRY (score=13.2, lower=more blurry): IMG-20260813-WA0021.jpg
+  BLURRY (score=9.7, lower=more blurry): IMG-20260813-WA0022.jpg
+  BLURRY (score=44.3, lower=more blurry): IMG-20260813-WA0023.jpg
+  BLURRY (score=19.3, lower=more blurry): IMG-20260813-WA0024.jpg
+  BLURRY (score=12.2, lower=more blurry): IMG-20260813-WA0025.jpg
+  BLURRY (score=33.1, lower=more blurry): IMG-20260813-WA0026.jpg
+  BLURRY (score=16.6, lower=more blurry): IMG-20260813-WA0027.jpg
+  BLURRY (score=9.0, lower=more blurry): IMG-20260813-WA0028.jpg
+
+=== 19_shoes (8 images) ===
+  BLURRY (score=17.5, lower=more blurry): IMG_20260813_114712.jpg
+  BLURRY (score=12.1, lower=more blurry): IMG_20260813_114740.jpg
+  BLURRY (score=14.8, lower=more blurry): IMG_20260813_114810.jpg
+  BLURRY (score=8.4, lower=more blurry): IMG_20260813_114828.jpg
+  BLURRY (score=18.1, lower=more blurry): IMG_20260813_114836.jpg
+  BLURRY (score=88.9, lower=more blurry): IMG_20260813_114945.jpg
+  BLURRY (score=15.8, lower=more blurry): IMG_20260813_115025.jpg
+  BLURRY (score=28.8, lower=more blurry): IMG_20260813_115041.jpg
+
+=== 20_mobile_covers (7 images) ===
+  BLURRY (score=47.7, lower=more blurry): IMG-20260813-WA0057.jpg
+  BLURRY (score=16.0, lower=more blurry): IMG-20260813-WA0058.jpg
+  BLURRY (score=8.9, lower=more blurry): IMG_20260813_122419.jpg
+  BLURRY (score=60.1, lower=more blurry): IMG_20260813_122423.jpg
+
+=== 21_perfumes (8 images) ===
+  BLURRY (score=54.2, lower=more blurry): IMG-20260813-WA0014.jpg
+  BLURRY (score=90.6, lower=more blurry): IMG-20260813-WA0015.jpg
+  BLURRY (score=39.2, lower=more blurry): IMG-20260813-WA0016.jpg
+  BLURRY (score=49.0, lower=more blurry): IMG-20260813-WA0017.jpg
+  BLURRY (score=66.3, lower=more blurry): IMG-20260813-WA0018.jpg
+  BLURRY (score=76.8, lower=more blurry): IMG-20260813-WA0019.jpg
+  BLURRY (score=19.7, lower=more blurry): IMG-20260813-WA0020.jpg
+
+=== 22_caps (7 images) ===
+  BLURRY (score=33.0, lower=more blurry): IMG_20260814_180913.jpg
+
+=== 23_dogs (8 images) ===
+  BLURRY (score=66.0, lower=more blurry): IMG-20260814-WA0037.jpg
+  BLURRY (score=87.1, lower=more blurry): IMG-20260814-WA0040.jpg
+
+=== 24_cats (7 images) ===
+  BLURRY (score=56.5, lower=more blurry): IMG-20260814-WA0034.jpg
+
+=== 25_parrot (8 images) ===
+  BLURRY (score=93.4, lower=more blurry): IMG_20260814_180553.jpg
+
+=== 26_horse (8 images) ===
+  BLURRY (score=61.3, lower=more blurry): IMG_20260814_180419.jpg
+
+=== not_in_catalogue (23 images) ===
+  BLURRY (score=25.1, lower=more blurry): IMG_20260811_194127.jpg
+  BLURRY (score=22.4, lower=more blurry): IMG_20260815_134942.jpg
+  BLURRY (score=28.2, lower=more blurry): IMG_20260815_134949.jpg
+  BLURRY (score=8.1, lower=more blurry): IMG_20260815_135037.jpg
+  BLURRY (score=39.6, lower=more blurry): IMG_20260815_135100.jpg
+  BLURRY (score=24.5, lower=more blurry): IMG_20260815_135129.jpg
+  BLURRY (score=42.9, lower=more blurry): IMG_20260815_135158.jpg
+  BLURRY (score=38.9, lower=more blurry): IMG_20260815_135214.jpg
+  BLURRY (score=33.6, lower=more blurry): IMG_20260815_135222.jpg
+  BLURRY (score=31.5, lower=more blurry): IMG_20260815_135236.jpg
+  BLURRY (score=27.9, lower=more blurry): IMG_20260815_135315.jpg
+  BLURRY (score=25.9, lower=more blurry): IMG_20260815_135323.jpg
+  BLURRY (score=36.0, lower=more blurry): IMG_20260815_135335.jpg
+  BLURRY (score=26.1, lower=more blurry): IMG_20260815_135400.jpg
+  BLURRY (score=21.6, lower=more blurry): IMG_20260815_135427.jpg
+  BLURRY (score=15.7, lower=more blurry): IMG_20260815_135442.jpg
+  BLURRY (score=24.8, lower=more blurry): IMG_20260815_135507.jpg
+  BLURRY (score=38.2, lower=more blurry): IMG_20260815_135600.jpg
+  BLURRY (score=44.7, lower=more blurry): IMG_20260815_135611.jpg
+  BLURRY (score=40.1, lower=more blurry): IMG_20260815_135724.jpg
+  BLURRY (score=37.8, lower=more blurry): IMG_20260815_135730.jpg
+  BLURRY (score=39.3, lower=more blurry): IMG_20260815_135804.jpg
+  BLURRY (score=36.6, lower=more blurry): IMG_20260815_135930.jpg
