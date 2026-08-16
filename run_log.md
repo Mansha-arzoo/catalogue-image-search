@@ -77,6 +77,9 @@ One line per run: what changed, and what happened.
 24. **Deployment attempt 2** — Updated requirements.txt to install CPU-only torch via --extra-index-url https://download.pytorch.org/whl/cpu, pushed fix, rebooted app.
     Result: Deployment successful. App live and working on Streamlit Community Cloud.
 
+25. **Idle vs warm timing test** — Measured total response time for the first request after 10+ minutes of app inactivity, then immediately measured a second request. Result: Cold/idle request = 364 ms total. Warm request (immediately after) = 171 ms total — about 53% faster. Confirms the benefit of loading the model and gallery embeddings once at startup rather than per-request.
+26. **final_evaluation.py** — Ran the baseline model on the HELD-BACK query set (opened for the first time), using the Day 7 cut-off of 0.45. Run once only, as required. Result: Recall@1 = 83.8% (67/80), Recall@5 = 91.2% (73/80), false refusals = 30.0% (24/80), false matches = 44.4% (4/9, small sample). Results close to the development-set numbers, confirming the baseline generalizes well; the not-in-catalogue held-back sample (n=9) was small, so the false-match rate has high variance.
+
 ---
 
-(To be continued: idle/warm timing measurements, held-back evaluation, final report.)
+
