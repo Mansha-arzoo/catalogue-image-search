@@ -1,0 +1,12 @@
+FINAL HELD-BACK EVALUATION RESULTS
+========================================
+Model used: Baseline (pretrained ResNet50)
+Cut-off threshold: 0.45
+
+Catalogue queries tested: 80
+Recall@1: 83.8%  (67/80)
+Recall@5: 91.2%  (73/80)
+False refusals (valid items wrongly rejected): 30.0%  (24/80)
+
+Not-in-catalogue queries tested: 9
+False matches (unlisted objects wrongly accepted): 44.4%  (4/9)
